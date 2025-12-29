@@ -30,3 +30,5 @@ The *Madhav E-commerce Sales Dashboard* is a Power BI project designed to analyz
 ## ✅ Outcome
 This dashboard helps stakeholders monitor business performance, identify growth opportunities, improve product strategy, and enhance overall e-commerce decision-making.
 
+Linkedin link:www.linkedin.com/in/
+deeksha-gaonkar-a8ba7b332
